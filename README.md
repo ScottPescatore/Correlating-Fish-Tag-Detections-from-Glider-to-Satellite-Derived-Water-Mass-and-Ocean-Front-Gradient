@@ -28,7 +28,7 @@
 #
 #
 #
-##Thesiscode2
+## Thesiscode2
 ##### This was from when I was struggling to get the code in Thesiscode1 to work. It contains diagnostic images as well as explores the different datasets.
 #
 #
