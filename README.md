@@ -22,26 +22,26 @@
 #
 #
 #
-## Thesiscode1
+## ThesisCode1
 ##### This is my first iteration in correlating fish tag detections to water masses. I was able to grab the water masses with this code and make some basic histograms to explore the data. 
 ##### I then run the same code with 3-day aggregate satellite data to compare the results
 #
 #
 #
-## Thesiscode2
+## Thesis Code2
 ##### This was from when I was struggling to get the code in Thesiscode1 to work. It contains diagnostic images as well as explores the different datasets.
 #
 #
 #
-## Thesiscode5
+## Thesis5
 ##### This code creates visual representations of Glider paths and detections as well as showing detections over-layed on the water mass product. (The date I chose has the most unique tags detected in a single day that also has satellite coverage)
 #
 #
 #
-## Thesiscode4
+## Thesis4
 ##### Starting to get some better figures and incorporates the score of the strongest water gradient within 1-km and 5-km and also starts to incorporate biometric data on the tags (species)
 #
 #
 #
-## Thesiscode6
+## Thesis6
 ##### Finally the final code that incorporates everything and producing final figures. In addition to last iteration, I got the score of the closest water gradient to the detection above a threshhold of 1.5 and the distance to the gradient. I then divide the score by the distance to get an index score that relates to the strength of the correlation between the fish and ocean front. I also classify each mission as Stratified or Mixed by looking at their data. (Later: Stratification will be determined by using glider density, temperature, and salinity at time of the detection instead of entire mission/ More Figures will be generated in near future)  
